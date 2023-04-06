@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on : Kelp Sporophyte and Urchin Foraging Behavior experiments
+- 🔭 I’m currently working on : Kelp Sporophyte Densities and Urchin Foraging Behavior experiments
 - 🌱 I’m currently learning R Studios & Java Script
 - 👯 I’m looking to collaborate on ecological research projects
 - 🤔 I’m looking for help with the following coding, experimental design, and statistical analysis of large datasets.
