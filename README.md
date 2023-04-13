@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on : Kelp Sporophyte Densities and Urchin Foraging Behavior Experiments
-- 🌱 I’m currently learning R Studios & Java Script
+- 🌱 I’m currently learning R Studios, Java Script & CSS
 - 👯 I’m looking to collaborate on ecological research projects
 - 🤔 I’m looking for help with coding, experimental design and statistical analysis of large datasets.
 - 💬 Ask me about marine ecology, california kelp forest fish and invertebrate species, rocks (in general), and guitars.
